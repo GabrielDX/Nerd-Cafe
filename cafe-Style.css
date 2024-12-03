@@ -1,6 +1,6 @@
 /* Configuração geral */
 body {
-	background-image: url("https://i.imgur.com/1XRjzfk.png"),
+	background-image: url(https://i.imgur.com/1XRjzfk.png),
 		linear-gradient(to right, #120d01, #140e01, #150f01, #170f02, #181002, #181002, #181002, #181002, #170f02, #150f01, #140e01, #120d01);
 	margin: 0;
 	font-family: Arial, sans-serif;
